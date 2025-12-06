@@ -31,5 +31,3 @@ Live Demo → [https://portfolio-saiteja.vercel.app/]
 
 ---
 
-## 📂 Folder Structure
-
